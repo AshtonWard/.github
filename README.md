@@ -22,7 +22,7 @@ Completed work remains available through closed issues, providing a history of p
 
 ## Repositories
 
-### AnsiblePlaybooks
+### Ansible
 
 Infrastructure-as-Code and automation for my homelab.
 
@@ -37,7 +37,7 @@ This repository contains the automation used to configure and manage systems acr
 - GitHub Actions workflows
 - Supporting PowerShell and shell scripts
 
-### Homelab-Documentation
+### Homelab
 
 Documentation and knowledge base for my homelab.
 
