@@ -60,10 +60,10 @@ The repositories serve different purposes:
 .github
 └── Planning and issue tracking
 
-AnsiblePlaybooks
+Ansible
 └── Infrastructure automation and implementation
 
-Homelab-Documentation
+Homelab
 └── Documentation and technical knowledge
 ```
 
